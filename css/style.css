@@ -337,7 +337,7 @@ h4 {
   padding-bottom: 1.5rem;
 }
 
-.card .light_title {
+.light_title {
   color: white;
   font-size: 2rem;
   line-height: 3rem;
@@ -345,6 +345,7 @@ h4 {
   font-weight: 700;
   font-style: italic;
   margin-top: 2rem;
+  margin-left: 2rem;
 }
 
 .card_white {
@@ -400,6 +401,7 @@ h4 {
 
 .light_text {
   padding-bottom: 1rem;
+  padding-left: 1rem;
 }
 
 .container-big {
