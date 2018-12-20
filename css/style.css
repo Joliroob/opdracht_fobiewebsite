@@ -314,6 +314,21 @@ h5 {
   /*margin-left: 0.5rem;*/
 }
 
+.greta {
+  color: #2D2D2D;
+  font-size: 2rem;
+  line-height: 3rem;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+
+.greta_txt {
+  margin-left: 1rem;
+}
+
 h4 {
   color: #D6363F;
   font-size: 2rem;
@@ -397,11 +412,13 @@ h4 {
   font-style: italic;
   padding-top: 2.5rem;
   padding-bottom: 1rem;
+  margin-left: 1rem;
 }
 
 .light_text {
   padding-bottom: 1rem;
   padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .container-big {
